@@ -91,11 +91,9 @@ Building pipelines, cloud platforms, and small AI tools that turn raw data into 
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=krunal491&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://streak-stats.demolab.com/?user=krunal491&theme=tokyonight" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krunal491&layout=compact&theme=tokyonight" />
 
 ---
 
